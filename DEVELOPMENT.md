@@ -1,0 +1,2 @@
+- create git submodule for all zephyr projects, place in here
+- explore the zephyr & ncs docs, add any interesting stuff here
